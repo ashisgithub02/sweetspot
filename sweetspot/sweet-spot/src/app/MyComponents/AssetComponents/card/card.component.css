@@ -1,0 +1,33 @@
+.card-layout{
+    border-color: #9e2a2b !important;
+}
+
+.card-layout:hover{
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.sweet-img {
+    overflow: hidden;
+}
+
+.sweet-img img {
+    transition: transform 0.3s ease-in-out;
+}
+
+.sweet-img:hover img {
+    transform: scale(1.2);
+}
+
+.sweet-head-text{
+    background-color: #9e2a2b;
+    opacity: 0.5rem;
+}
+
+.cart-pill{
+    transition: transform 0.3s ease-in-out;
+}
+
+.cart-pill:hover {
+    transform: scale(1.1);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}

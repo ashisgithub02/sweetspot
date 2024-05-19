@@ -1,0 +1,10 @@
+.tohome-btn{
+    color: #6f1d1b !important;
+    border-color: #6f1d1b !important;
+}
+
+.tohome-btn:hover{
+    color: white !important;
+    border-color: #6f1d1b !important;
+    background-color: #6f1d1b !important;
+}
